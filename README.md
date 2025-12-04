@@ -38,7 +38,7 @@ https://github.com/maryamabuloha/Swing_Simulator
 
 ## Visual Preview
 
-[INSERT A SCREENSHOT OR GIF OF THE SWING ANIMATION HERE]
+https://github.com/user-attachments/assets/c4f17cfd-bf54-4b0b-a1bd-17333269c43d
 
 ## License
 
